@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "base": "/abundant-roots-preview/",
+  "files": [
+    ".nojekyll",
+    "_astro/kalam-latin-400-normal.Bl-H2BUA.woff",
+    "_astro/kalam-latin-400-normal.BthBl_aR.woff2",
+    "_astro/load.BLcF3eY8.css",
+    "_astro/noto-serif-display-latin-400-normal.USF2Wcf4.woff2",
+    "_astro/noto-serif-display-latin-400-normal.gTjKYAq0.woff",
+    "about/index.html",
+    "community/index.html",
+    "contact/index.html",
+    "images/roots-detail.webp",
+    "images/woodland-hero.webp",
+    "images/woodland-light.webp",
+    "images/woodland-path.webp",
+    "index.html",
+    "review-manifest.json",
+    "work-with-jillisa/index.html"
+  ]
+}
